@@ -1,0 +1,72 @@
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.exe
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\appsettings.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.deps.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.dev.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\DataValidation.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\bin\Debug\net5.0-windows\DataValidation.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmLogin.resources
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberDetails.resources
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberManagement.resources
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfo.cs
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CopyComplete
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\refint\MyStoreWinApp.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.genruntimeconfig.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\MyStoreWinApp\obj\Debug\net5.0-windows\ref\MyStoreWinApp.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.exe
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\appsettings.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.deps.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.runtimeconfig.dev.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\MyStoreWinApp.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Configuration.Json.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\Microsoft.Extensions.Primitives.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\DataValidation.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\BusinessObject.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\DataAccess.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\bin\Debug\net5.0-windows\DataValidation.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.AssemblyReference.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmLogin.resources
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberDetails.resources
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.frmMemberManagement.resources
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.GenerateResource.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfoInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.AssemblyInfo.cs
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CoreCompileInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.csproj.CopyComplete
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\refint\MyStoreWinApp.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\MyStoreWinApp.genruntimeconfig.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\MyStoreWinApp\obj\Debug\net5.0-windows\ref\MyStoreWinApp.dll

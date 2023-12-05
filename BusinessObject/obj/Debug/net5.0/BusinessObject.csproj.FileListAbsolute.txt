@@ -1,0 +1,30 @@
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\bin\Debug\net5.0\DataValidation.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\bin\Debug\net5.0\DataValidation.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CopyComplete
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\bin\Debug\net5.0\BusinessObject.deps.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\bin\Debug\net5.0\BusinessObject.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\bin\Debug\net5.0\BusinessObject.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\bin\Debug\net5.0\DataValidation.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\bin\Debug\net5.0\DataValidation.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.AssemblyReference.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfoInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.AssemblyInfo.cs
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.csproj.CopyComplete
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\obj\Debug\net5.0\refint\BusinessObject.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\obj\Debug\net5.0\BusinessObject.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\BusinessObject\obj\Debug\net5.0\ref\BusinessObject.dll

@@ -1,0 +1,24 @@
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataValidation\bin\Debug\net5.0\DataValidation.deps.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataValidation\bin\Debug\net5.0\DataValidation.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataValidation\bin\Debug\net5.0\DataValidation.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataValidation\obj\Debug\net5.0\DataValidation.csproj.AssemblyReference.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataValidation\obj\Debug\net5.0\DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfoInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfo.cs
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataValidation\obj\Debug\net5.0\DataValidation.csproj.CoreCompileInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataValidation\obj\Debug\net5.0\DataValidation.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataValidation\obj\Debug\net5.0\refint\DataValidation.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataValidation\obj\Debug\net5.0\DataValidation.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataValidation\obj\Debug\net5.0\ref\DataValidation.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataValidation\bin\Debug\net5.0\DataValidation.deps.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataValidation\bin\Debug\net5.0\DataValidation.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataValidation\bin\Debug\net5.0\DataValidation.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataValidation\obj\Debug\net5.0\DataValidation.csproj.AssemblyReference.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataValidation\obj\Debug\net5.0\DataValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfoInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataValidation\obj\Debug\net5.0\DataValidation.AssemblyInfo.cs
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataValidation\obj\Debug\net5.0\DataValidation.csproj.CoreCompileInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataValidation\obj\Debug\net5.0\DataValidation.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataValidation\obj\Debug\net5.0\refint\DataValidation.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataValidation\obj\Debug\net5.0\DataValidation.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataValidation\obj\Debug\net5.0\ref\DataValidation.dll

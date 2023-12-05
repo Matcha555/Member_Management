@@ -1,0 +1,36 @@
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\bin\Debug\net5.0\appsettings.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\bin\Debug\net5.0\DataValidation.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\bin\Debug\net5.0\DataValidation.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\Assigment01_MemberManagement - Copy\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\bin\Debug\net5.0\appsettings.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\bin\Debug\net5.0\DataAccess.deps.json
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\bin\Debug\net5.0\DataAccess.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\bin\Debug\net5.0\DataAccess.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\bin\Debug\net5.0\BusinessObject.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\bin\Debug\net5.0\DataValidation.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\bin\Debug\net5.0\BusinessObject.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\bin\Debug\net5.0\DataValidation.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\obj\Debug\net5.0\DataAccess.csproj.AssemblyReference.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\obj\Debug\net5.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfoInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\obj\Debug\net5.0\DataAccess.AssemblyInfo.cs
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\obj\Debug\net5.0\DataAccess.csproj.CopyComplete
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\obj\Debug\net5.0\DataAccess.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\obj\Debug\net5.0\refint\DataAccess.dll
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\obj\Debug\net5.0\DataAccess.pdb
+D:\My profile\BaiHoc\Semester 5\PRN211\Assignment1\SE161553_PRN211_Assignment1\DataAccess\obj\Debug\net5.0\ref\DataAccess.dll
